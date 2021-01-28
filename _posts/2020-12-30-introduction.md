@@ -3,17 +3,6 @@ title: "Introduction"
 description: 1
 ---
 
-<huawei-codelab-about codelab-title="HMS Location Kit - Geofence and Activity Identification Codelab" last-updated="2020-12-30T13:20:13-07:00" authors="Huawei Codelab Team">
-
-<div class="HMS Location Kit - Geofence and Activity Identification">
-<div class="token">HMS Computer Graphics Kit - SkyVision Codelab</div></div>
-<div class="about-card">
-<h2 class="title">About this codelab</h2>
-<div class="last-updated"><i class="material-icons">subject</i>Last updated Jan 28, 2021</div>
-<div class="authors"><i class="material-icons">account_circle</i>Written by Huawei Codelab Team</div></div>
-
-</huawei-codelab-about>
-
 ## **Overview**
 
 HUAWEI CG Rendering Framework is a high-performance rendering framework based on the Vulkan graphics API, consisting of the PBR material, model, texture, illumination, and component systems, and more. This framework is designed for Huawei DDK features and implementation details to provide the optimal 3D rendering capability of the Huawei platform. In addition, the framework supports secondary development, with reduced difficulty and increased efficiency.
