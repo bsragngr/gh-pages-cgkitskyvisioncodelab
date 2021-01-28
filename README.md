@@ -1,1 +1,1 @@
-# gh-pages-cgkitskyvisioncodelab
+# GitHub-pages for HMS Computer Graphics Kit - SkyVision Codelab
