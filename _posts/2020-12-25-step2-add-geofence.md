@@ -16,12 +16,13 @@ Folder which contains configuration file and side images.
 
 (Name is must be the same as the following example)
 
-<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg7.png">
+<div style="padding: 5px"><img style="width: 500px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg7.png">
 </div>
+
 
 This file should be in asset folder of project:
 
-<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg8.png">
+<div style="padding: 5px"><img style="width: 500px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg8.png">
 </div>
 
 Additionally, a cube .obj file is needed. (You can download various cub files from websites).

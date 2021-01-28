@@ -20,12 +20,12 @@ description: 5
 
 - Create the build dependencies of CMake in the **/app/build.gradle** file (in **externalNativeBuild** at the same level as **defaultConfig** under **Android**):
 
-  <div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg2.png">
+  <div style="padding: 5px"><img style="width: 1000px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg2.png">
   </div>
 
 - Configure the **NDK ABI** filter:
 
-  <div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg3.png">
+  <div style="padding: 5px"><img style="width: 1000px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg3.png">
   </div>
 
 **3. Copy libraries and header files.**
@@ -36,14 +36,14 @@ description: 5
 
   Copy the header files in the SDK package to the **src/main/cpp/include** directory in Android Studio.
 
-  <div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg4.png">
+  <div style="padding: 5px"><img style="width: 350.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg4.png">
   </div>
 
 - Copy the .so files in the SDK package to the resource library.
 
   Copy **libs\arm64-v8a\libcgkit.so** and **libs\armeabi-v7a\libcgkit.so** in the SDK package to **libs/arm64-v8a** and **/libs/armeabi-v7a** in Android Studio, respectively.
 
-  <div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg5.png">
+  <div style="padding: 5px"><img style="width: 350.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg5.png">
 </div>
   
 -  Overwrite the **CMakeLists.txt** file in **app/src/main/cpp** with the following code. The **CGRenderingFramework** folder name can user-defined.`

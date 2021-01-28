@@ -14,6 +14,6 @@ The textures of the object is:
 
 Model and texture file are located in models folder which is under assets:
 
-<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg11.png">
+<div style="padding: 5px"><img style="width: 350px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg11.png">
 </div>
 

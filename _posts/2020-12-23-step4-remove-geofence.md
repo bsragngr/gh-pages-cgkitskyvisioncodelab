@@ -5,15 +5,15 @@ description: 3
 
 **Sample Code**
 
-1. In **InitScene** method, you need to implement the model as follow,
+In **InitScene** method, you need to implement the model as follow,
 
-   `String modelName = "models/**space_ship.obj**";`
-   
-   <pre><div id="copy-button23" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>// Here the textures is loaded. You need to change location and name of the texture according to your file.
-   String texAlbedo = "models/texture/spaceship_texture.png";
-   String texNormal = "models/texture/spaceship_texture_normal.png";
-   String texEmissive = "shaders/pbr_brdf.png";
-   <span class="pln"></span></code></pre>
+`String modelName = "models/**space_ship.obj**";`
+
+<pre><div id="copy-button23" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>// Here the textures is loaded. You need to change location and name of the texture according to your file.
+String texAlbedo = "models/texture/spaceship_texture.png";
+String texNormal = "models/texture/spaceship_texture_normal.png";
+String texEmissive = "shaders/pbr_brdf.png";
+<span class="pln"></span></code></pre>
 
 In here, albedo texture is implemented:
 
@@ -89,5 +89,6 @@ cameraObj->SetPosition(EYE_POSITION);
 
 Rendering object with skybox :
 
-<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg12.png">
+<div style="padding: 5px"><img style="width: 350px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg12.jpg">
 </div>
+
