@@ -101,6 +101,3 @@ description: 5
   ```
 
 - After that don’t forget to click **Sync Project with Gradle Files**.
-
-Now, you’re set up, and ready.
-
