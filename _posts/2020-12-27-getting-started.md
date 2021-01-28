@@ -11,9 +11,7 @@ description: 5
 
 - The directory tree is as follows: 
 
-  ![](C:\Users\b00568925\Desktop\gh-pages-cgkitcodelab\assets\cg1.png)
-  
-  
+  <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg1.jpg">
 
 **2.  Modify the app/build.gradle file to specify the C++ file for CMake build.**
 
