@@ -11,7 +11,10 @@ description: 5
 
 - The directory tree is as follows: 
 
-  <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg1.jpg">
+  <div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg1.png">
+  </div>
+  
+  
 
 **2.  Modify the app/build.gradle file to specify the C++ file for CMake build.**
 
