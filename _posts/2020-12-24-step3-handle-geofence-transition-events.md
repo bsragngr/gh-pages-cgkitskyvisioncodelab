@@ -9,9 +9,11 @@ You need to compose your own Scene object and model. In this project, we used a 
 
 The textures of the object is:
 
-![](C:\Users\b00568925\Desktop\gh-pages-cgkitcodelab\assets\cg10.png)
+<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg10.png">
+</div>
 
 Model and texture file are located in models folder which is under assets:
 
-![](C:\Users\b00568925\Desktop\gh-pages-cgkitcodelab\assets\cg11.png)
+<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg11.png">
+</div>
 

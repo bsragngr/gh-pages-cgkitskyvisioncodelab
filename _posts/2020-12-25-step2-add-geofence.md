@@ -9,16 +9,19 @@ You need a cub file which is used as skybox. Six side of the cubes should be pro
 
 Configuration file: 
 
-![](C:\Users\b00568925\Desktop\gh-pages-cgkitcodelab\assets\cg6.png)
+<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg6.png">
+</div>
 
 Folder which contains configuration file and side images.
 
 (Name is must be the same as the following example)
 
-![](C:\Users\b00568925\Desktop\gh-pages-cgkitcodelab\assets\cg7.png)
+<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg7.png">
+</div>
 
 This file should be in asset folder of project:
 
-![](C:\Users\b00568925\Desktop\gh-pages-cgkitcodelab\assets\cg8.png)
+<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg8.png">
+</div>
 
 Additionally, a cube .obj file is needed. (You can download various cub files from websites).

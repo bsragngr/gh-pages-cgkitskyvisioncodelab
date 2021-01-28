@@ -89,4 +89,5 @@ cameraObj->SetPosition(EYE_POSITION);
 
 Rendering object with skybox :
 
-![](C:\Users\b00568925\Desktop\gh-pages-cgkitcodelab\assets\cg12.jpg)
+<div style="padding: 5px"><img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/bsragngr/gh-pages-cgkitskyvisioncodelab/gh-pages/assets/cg12.png">
+</div>
